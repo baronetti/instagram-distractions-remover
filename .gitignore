@@ -1,0 +1,7 @@
+# Ignore binaries & keys
+*.apk
+*.keystore
+*.rvp
+
+# Ignore temporary folders
+*-temporary-files/
