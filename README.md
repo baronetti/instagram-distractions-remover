@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="/images/cover.jpeg" alt="Instagram Distractions Remover Preview" width="200" style="border-radius: 10px;">
+</p>
 
   <h1>Instagram Distractions Remover</h1>
   <p><strong>Automated local build tool to remove reels, scrolling, homepage feed, and recommendations from Instagram using ReVanced CLI.</strong></p>
