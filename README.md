@@ -16,6 +16,11 @@
 ## What is it?
 Lightweight automation script for Windows 11 designed to build a modified, distraction-free version of the official Instagram app using **ReVanced CLI**.
 
+<div align="center">
+  <img src="images/examples.jpeg" alt="Clean Instagram Interface" width="350" />
+  <p><em>Clean home feed with no Reels tab.</em></p>
+</div>
+
 ## Key Features
 - **Disable Reels Scrolling & Navigation:** Removes the dedicated Reels tab and blocks endless vertical swiping.
 - **Strict Following Feed:** Limits home feed content to profiles you explicitly follow.
